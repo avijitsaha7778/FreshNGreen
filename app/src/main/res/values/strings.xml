@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fresh N Green</string>
+
+    <string name="no_connection_msg">No Internet Connection</string>
+</resources>
